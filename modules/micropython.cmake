@@ -5,4 +5,4 @@
 
 # Add the C example.
 include(${CMAKE_CURRENT_LIST_DIR}/mymath/micropython.cmake)
-
+include(${CMAKE_CURRENT_LIST_DIR}/lvgl/micropython.cmake)
